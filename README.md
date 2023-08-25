@@ -88,12 +88,13 @@ O sistema demonstra um excelente controle de dados e gerenciamento, assegurando 
 `pip install mysqlclient`
 `pip install python-decouple`
 `pip install django-bootstrap4`
+`pip install python-dotenv`
 
 
-10. Finalmente, execute o servidor de desenvolvimento com o seguinte comando:
+11. Finalmente, execute o servidor de desenvolvimento com o seguinte comando:
  `python manage.py runserver`
 
-11. Acesse a aplicação em seu navegador em [http://localhost:8000/](http://localhost:8000/).
+12. Acesse a aplicação em seu navegador em [http://localhost:8000/](http://localhost:8000/).
 
 ### 📫 Deseja contribuir para o projeto?
 Para contribuir com o projeto, siga estas etapas:
