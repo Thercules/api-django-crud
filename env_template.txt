@@ -1,0 +1,43 @@
+#===================================================================================
+#ESTE É UM ARQUIVO MODELO DO .ENV ORIGINAL USADO PARA PROTEÇÃO DE DADOS DA APLICAÇÃO
+#===================================================================================
+
+#Este arquivo contém TODAS as chaves utilizadas na configuração da settings.py. 
+#em branco apenas estará em aguardo as chaves as quais são necessárias senhas e dados voláteis como login do banco e afins.
+#Após ler esta linha, basta que edite no vscode o arquivo de txt para .env
+
+#====================================
+#Pequena instrução sobre a secret key
+#====================================
+
+#-Para conseguir a sua secret key, vá até o console e digite isto: python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+#-O python irá gerar uma key randomica e você deve copia-la e cola-la dentro das aspas simples abaixo
+
+# Django Secret Key - DEIXE ENTRE ASPAS POIS A SECRET KEY PODE CONTER CARACTERES ESPECIAIS
+SECRET_KEY = ''
+
+# Debug Mode (True or False)
+DEBUG = 
+
+# Allowed Hosts (comma-separated)
+ALLOWED_HOSTS =
+
+# Database settings
+DB_ENGINE = django.db.backends.mysql
+DB_NAME =
+DB_USER =
+DB_PASSWORD = 
+DB_HOST = localhost
+DB_PORT = 
+
+# Static files
+STATIC_URL = /static/
+STATIC_ROOT = staticfiles
+
+# Media files
+MEDIA_URL = /media/
+MEDIA_ROOT = media
+
+# Login settings
+LOGIN_URL = auth/login/
+LOGIN_REDIRECT_URL = listar_clientes
