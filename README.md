@@ -81,17 +81,16 @@ O sistema demonstra um excelente controle de dados e gerenciamento, assegurando 
 `CREATE DATABASE linsferrao;`
 `USE linsferrao;`
 
-7. Abra o arquivo `gestaoclientes/settings.py` dentro do diretório do projeto e preencha as configurações do banco de dados.
+7. Abra o arquivo `gestaoclientes/settings.py` dentro do diretório do projeto e perceba que existem variáveis para uma chamada mais segura dos dados voláteis como senhas e afins, para preenche-las você deve ir até o arquivo `env_template.txt` presente no repositório do projeto renomea-lo para `.env`, seguir o passo a passo para configurar todas as chaves com seus dados do banco, portas de acesso do mesmo e afins, lembre-se, se isso não for feito, você não conseguirá fazer a migração. 
 
 8. Execute o seguinte comando para criar as tabelas do banco de dados:
-
 `python manage.py migrate`
 
-9. Instale as dependências do projeto com os seguintes comandos:
-`pip install mysqlclient`
-`pip install python-decouple`
-`pip install django-bootstrap4`
-`pip install python-dotenv`
+9. Instale as dependências do projeto com os seguintes comandos: <br>
+`pip install mysqlclient` <br>
+`pip install python-decouple` <br>
+`pip install django-bootstrap4` <br>
+`pip install python-dotenv` <br>
 
 
 11. Finalmente, execute o servidor de desenvolvimento com o seguinte comando:
