@@ -35,11 +35,6 @@ aprimorar o design da página, elevando a experiência do usuário a um novo pat
 
 ![img](rdm-img/img2.png) <br>
 
-### Melhorias futuras
-- Refatorar o código e implementar metodologia SOLID
-- Aplicar .env para dados voláteis
-- Criar um website web para melhorar o consumo do produto
-
 ### Sobre a resolução do desafio
 O desafio proposto de desenvolver um sistema de controle de clientes foi completamente atendido, abrangendo todos os requisitos solicitados de maneira eficaz e funcional. 
 O sistema desenvolvido armazena de maneira precisa os dados essenciais de cada cliente, 
