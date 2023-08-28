@@ -26,7 +26,7 @@ O projeto MC é o resultado da harmonização perfeita entre tecnologias lídere
 [Clique aqui para ir a prototipagem](https://www.figma.com/file/x6HBF8nDFs8Z5uEJbrK7RV/Prints-de-Funcionamento?type=design&node-id=0%3A1&mode=design&t=URZ3lyd2kchST3yH-1)<br>
 
 ### Vídeo explicativo sobre a api + manual de instalação em vídeo
-[Clique aqui para ir até o vídeo](https://www.youtube.com/watch?v=_nm_E_LZkeY)<br>
+[Clique aqui para ir até o vídeo](https://www.youtube.com/watch?v=xQrxi7IZMOo)<br>
 
 ### Ideia e solução
 O conceito do meu projeto nasceu como resposta a um desafio apresentado pela Lins Ferrão para a vaga de desenvolvedor. A tarefa era criar uma API de cadastro de clientes, e para otimizar meu tempo, 
