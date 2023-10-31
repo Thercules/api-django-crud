@@ -1,7 +1,7 @@
 <h1>Meus Clientes - DJANGO, PYTHON, MYSQL</h1>
 
 ![principal](rdm-img/img1.png) <br>
-<h2>Fullstack Django - Vaga Lins Ferrao - Desenvolvedor Júnior</h2>
+<h2>Fullstack Django</h2>
 O MC (Meus Clientes) foi desenvolvido com expertise utilizando Django, Python e Bootstrap, criando uma sinergia perfeita entre robustez, 
 agilidade e design responsivo. A aplicação foi construída com a poderosa estrutura do Django, enquanto Python adicionou a funcionalidade e a 
 lógica por trás das interações. O design moderno e intuitivo foi alcançado através do Bootstrap, garantindo uma experiência de usuário fluida em diferentes dispositivos. 
@@ -29,7 +29,7 @@ O projeto MC é o resultado da harmonização perfeita entre tecnologias lídere
 [Clique aqui para ir até o vídeo](https://www.youtube.com/watch?v=xQrxi7IZMOo)<br>
 
 ### Ideia e solução
-O conceito do meu projeto nasceu como resposta a um desafio apresentado pela Lins Ferrão para a vaga de desenvolvedor. A tarefa era criar uma API de cadastro de clientes, e para otimizar meu tempo, 
+O conceito do meu projeto nasceu como resposta a um desafio apresentado para UNIFG. A tarefa era criar uma API de cadastro de clientes, e para otimizar meu tempo, 
 criei o backend em Python. Utilizando o Bootstrap, prototipei a estrutura da web com templates pré-configurados, permitindo uma abordagem ágil. Ao longo do desenvolvimento, dediquei esforços em 
 aprimorar o design da página, elevando a experiência do usuário a um novo patamar. O projeto é o resultado da união entre praticidade e criatividade, entregando uma solução eficaz e visualmente atraente.
 
